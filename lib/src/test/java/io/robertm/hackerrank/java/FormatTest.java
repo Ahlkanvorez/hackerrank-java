@@ -1,4 +1,4 @@
-package io.robertm.hackerrank;
+package io.robertm.hackerrank.java;
 
 import org.junit.Test;
 import static org.junit.Assert.*;

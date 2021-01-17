@@ -1,4 +1,4 @@
-package io.robertm.hackerrank;
+package io.robertm.hackerrank.java;
 
 import java.util.Scanner;
 
